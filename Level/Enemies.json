@@ -1,0 +1,1073 @@
+﻿[
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "200 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 40000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 200, -150 ",
+          " 300, 200 ",
+          " 700, 200 ",
+          " 2000, -500 "
+        ],
+        "SpeedMax": 5,
+        "PauseDuration": "00.00:00:00.000000"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "100, 500",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 20000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 800, 500 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 800, -150 ",
+      "Amount": 1,
+      "Delay": 3000000,
+      "WaveDelay": 40000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "positions": [
+          " 800, -150 ",
+          " 800, 500 ",
+          " -2000, 500 ",
+          " -2100, 500 "
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.000000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 800, 300 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "100, 300",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": "300, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 300, -150 ",
+          " 300, 400 ",
+          " 2000, 400 ",
+          " 2100, 400 "
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.000000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "900 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 60000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 900, -150 ",
+          " 700, 200 ",
+          " 200, 200 ",
+          " 200, -500 "
+        ],
+        "SpeedMax": 5,
+        "PauseDuration": "00.00:00:00.000000"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 5000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "100, 700",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 800, 800 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 5000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "100, 800",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 20000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 800, 600 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "100, 600",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "700, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 20000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 700, 600 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " 4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 500, -150 ",
+      "Amount": 1,
+      "Delay": 3000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 3 ",
+        "TurnPoint": " 500, 500 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -3, 0 "
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "50 , -150",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": "0, 4",
+        "TurnPoint": "50, 400",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": "4, 0"
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "700, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 70000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 4 ",
+        "TurnPoint": " 700, 300 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " 4, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "600, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "600, -150 ",
+          " 500, 100 ",
+          " 500, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "700, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "700, -150 ",
+          " 600, 100 ",
+          " 600, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "300, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "300, -150 ",
+          " 400, 100 ",
+          " 400, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "200, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "200, -150 ",
+          " 300, 100 ",
+          " 300, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "800, -150 ",
+          " 700, 100 ",
+          " 700, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "900, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "900, -150 ",
+          " 800, 100 ",
+          " 800, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "100, -150 ",
+          " 200, 100 ",
+          " 200, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "1000, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "1000, -150 ",
+          " 900, 100 ",
+          " 900, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "50, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 50000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "50, -150 ",
+          " 100, 100 ",
+          " 100, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "MillionAnts",
+      "Health": 10,
+      "StartLocation": " 100, 100 ",
+      "Amount": 1,
+      "Delay": 100000000,
+      "WaveDelay": 300000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 100, 100 ",
+          " 100, 700 ",
+          " 700, 700 ",
+          " 700, 100 "
+        ],
+        "SpeedMax": 5,
+        "PauseDuration": "00.00:00:01.0000000"
+      },
+      "Shot": {
+        "Type": "Multiple",
+        "ShotFreq": "00.00:00:05.0000000",
+        "Shots": [
+          {
+            "Type": "Circular",
+            "ShotFreq": "00.00:00:00.2500000",
+            "Speed": 3
+          },
+          {
+            "Type": "Curtain",
+            "ShotFreq": "00.00:00:00.2500000",
+            "Speed": 3
+          }
+        ]
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 100, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 100, -150 ",
+          " 100, 300 ",
+          " 8000, 300 "
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.500000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 850, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "850, -150",
+          "850, 300",
+          "-500, 300"
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.2500000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 850, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 250, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 550, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 450, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 150, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 5,
+      "StartLocation": " 650, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 30000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Linear",
+        "Speed": " 0, 3 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": " 850, -150 ",
+      "Amount": 5,
+      "Delay": 10000000,
+      "WaveDelay": 40000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Turn",
+        "Speed": " 0, 3 ",
+        "TurnPoint": " 800, 300 ",
+        "TurnSpeed": 0.5,
+        "FinalSpeed": " -3, 0 "
+      },
+      "Shot": {
+        "Type": "None"
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 100, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          " 100, -150 ",
+          " 100, 400 ",
+          " 8000, 400 "
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.500000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Gromflomite",
+      "Health": 1,
+      "StartLocation": " 850, -150 ",
+      "Amount": 1,
+      "Delay": 10000000,
+      "WaveDelay": 20000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "850, -150",
+          "850, 400",
+          "-500, 400"
+        ],
+        "SpeedMax": 3,
+        "PauseDuration": "00.00:00:00.2500000"
+      },
+      "Shot": {
+        "Type": "Triangle",
+        "ShotFreq": "00.00:00:01.0000000",
+        "Speed": 5,
+        "numOfBullets": 3,
+        "bulletSpread": 75
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "700, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "700, -150 ",
+          " 600, 100 ",
+          " 600, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "300, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "300, -150 ",
+          " 400, 100 ",
+          " 400, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "200, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "200, -150 ",
+          " 300, 100 ",
+          " 300, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "800, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "800, -150 ",
+          " 700, 100 ",
+          " 700, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "900, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "900, -150 ",
+          " 800, 100 ",
+          " 800, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "100, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 10000000,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "100, -150 ",
+          " 200, 100 ",
+          " 200, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+    {
+      "Enemy": "Meeseek",
+      "Health": 1,
+      "StartLocation": "1000, -150 ",
+      "Amount": 1,
+      "Delay": 1000000,
+      "WaveDelay": 0,
+      "OffShot": 0,
+      "Movement": {
+        "Type": "Multi",
+        "Positions": [
+          "1000, -150 ",
+          " 900, 100 ",
+          " 900, -2000 "
+        ],
+        "SpeedMax": 4,
+        "PauseDuration": "00.00:00:02.5000000"
+      },
+      "Shot": {
+        "Type": "Linear",
+        "ShotFreq": "00.00:00:01.00000",
+        "Speed": 3,
+        "numOfBullets": 3
+      }
+    },
+  {
+    "Enemy": "Meeseek",
+    "Health": 1,
+    "StartLocation": "50, -150 ",
+    "Amount": 1,
+    "Delay": 1000000,
+    "WaveDelay": 50000000,
+    "OffShot": 0,
+    "Movement": {
+      "Type": "Multi",
+      "Positions": [
+        "50, -150 ",
+        " 100, 100 ",
+        " 100, -2000 "
+      ],
+      "SpeedMax": 4,
+      "PauseDuration": "00.00:00:02.5000000"
+    },
+    "Shot": {
+      "Type": "Linear",
+      "ShotFreq": "00.00:00:01.00000",
+      "Speed": 3,
+      "numOfBullets": 3
+    }
+  },
+  {
+    "Enemy": "Supernova",
+    "Health": 20,
+    "StartLocation": " 100, 300 ",
+    "Amount": 1,
+    "Delay": 100000000,
+    "WaveDelay": 300000000,
+    "OffShot": 1,
+    "Movement": {
+      "Type": "Multi",
+      "Positions": [
+        " 100, 100 ",
+        " 100, 700 ",
+        " 400, 400 ",
+        " 700, 700 ",
+        " 700, 100 ",
+        " 400, 400 "
+      ],
+      "SpeedMax": 5,
+      "PauseDuration": "00.00:00:01.0000000"
+    },
+    "Shot": {
+      "Type": "Multiple",
+      "ShotFreq": "00.00:00:04.0000000",
+      "Shots": [
+        {
+          "Type": "LinearX3",
+          "ShotFreq": "00.00:00:00.0100000",
+          "Speed": 4,
+          "numOfBullets": 100
+        },
+        {
+          "Type": "Linear",
+          "ShotFreq": "00.00:00:00.0100000",
+          "Speed": 4,
+          "numOfBullets": 100
+        }
+      ]
+    }
+  }
+]

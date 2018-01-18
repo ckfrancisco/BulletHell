@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/EnemyBullet.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/Space.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/Supernova.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/Gromflomite.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/Meeseek.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/MillionAnts.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/Player.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/PlayerBullet.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/playerHitBox.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/sidebar.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/playerHitboxTexture.png</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Score.spritefont</File>
+    <File>D:/Users/Christian/Downloads/Rep_Christian-master/Rep_Christian-master/487_game/Content/Graphics/playerBomb.png</File>
+  </SourceFiles>
+</SourceFileCollection>

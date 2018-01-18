@@ -1,0 +1,10 @@
+﻿-Enemy Meeseek 1 100,-150 -Amount 5 -Delay 10000000 -Movement Turn 0,3 100,200 0.5 3,0 -Shot Linear 2500000 3 3
+-Enemy Meeseek 1 800,-150 -Amount 5 -Delay 10000000 -Movement Turn 0,3 800,300 0.5 -3,0 -Shot Linear 2500000 3 3
+-Enemy Gromflomite 1 100,-150 -Amount 3 -Delay 10000000 -Movement Multi 100,-150/100,200/800,200/800,-300 3 2500000 -Shot Curtain 2500000 3
+-Enemy Gromflomite 1 850,-150 -Amount 3 -Delay 10000000 -Movement Multi 850,-150/850,300/50,300/50,-300 3 2500000 -Shot Curtain 2500000 3
+-Enemy MillionAnts 5 100,100 -Amount 1 -Delay 100000000 -Movement Multi 100,100/100,700/700,700/700,100 5 10000000 -Shot Circular 2500000 3
+-Enemy Meeseek 1 100,-150 -Amount 5 -Delay 10000000 -Movement Turn 0,3 100,200 0.5 3,0 -Shot Linear 2500000 3 3
+-Enemy Meeseek 1 800,-150 -Amount 5 -Delay 10000000 -Movement Turn 0,3 800,300 0.5 -3,0 -Shot Linear 2500000 3 3
+-Enemy Gromflomite 1 100,-150 -Amount 3 -Delay 10000000 -Movement Multi 100,-150/100,200/800,200/800,-300 3 2500000 -Shot Curtain 2500000 3
+-Enemy Gromflomite 1 850,-150 -Amount 3 -Delay 10000000 -Movement Multi 850,-150/850,300/50,300/50,-300 3 2500000 -Shot Curtain 2500000 3
+-Enemy Supernova 10 100,300 -Amount 1 -Delay 100000000 -Movement Teleport 100,300/700,300/350,100 45000000 -Shot Curtain 2500000 3
